@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Marcos Pedro 🖐️
-# Desenvolvedor Front End
+<p><small>Desenvolvedor Front End</small></p>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-pedro-alves-376a7b209)
 
