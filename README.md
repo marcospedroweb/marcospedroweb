@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Marcos Pedro 🖐️
-<small>Desenvolvedor Front End</small>
+# Desenvolvedor Front End
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-pedro-alves-376a7b209)
 
@@ -16,6 +16,7 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+## Um pouco sobre mim
+> Sou apaixonado por computador e suas tecnologias desde pequeno. Sempre tinha a certeza que era com isso que trabalharia futuramente e hoje tenho a oportunidade exercer a profissão de Desenvolvedor Front End. Além disso, adoro fazer amizades, assistir animes, jogar Games e sou um grande Entusiasta da Astronomia, eu costumo admirar Estrelas, Buracos negros, constelações e tudo que envolva o Espaço Sideral e as tecnologias que criamos para cada dia chegar mais perto das estrelas.
 
 
