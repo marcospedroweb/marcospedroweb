@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-pedro-alves-376a7b209)
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospedroweb&show_icons=true&theme=dracula&count_private=true)
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospedroweb)
 
 ## Tecnologias que eu uso no meu dia como Desenvolvedor Front End
 
