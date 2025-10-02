@@ -2,7 +2,7 @@
 Sou desenvolvedor FullStack com mais de 2 anos de experiência criando interfaces modernas e sistemas.<br>Gosto de explorar novas tecnologias e trabalhar em equipe para desenvolver soluções criativas e eficientes.<br>No meu tempo livre, estou sempre buscando aprender algo novo, seja através de cursos ou projetos pessoais.
 
 ## 📬 Entre em contato comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marcospedroalves/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-pedro-alves-376a7b209)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marcospedro.alves@outlook.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11980950160)  
 
